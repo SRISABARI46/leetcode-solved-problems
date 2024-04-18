@@ -1,4 +1,4 @@
-# For Question see the description
+# For Question see the description.
 class Solution(object):
     def twoSum(self, nums, target):
         for i in range(len(nums)-1):
